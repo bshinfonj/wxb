@@ -25,7 +25,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bshinfo.wxbphone</string>
+				<string>com.bshinfo.wxb</string>
 				<key>bundle-version</key>
 				<string>1.0.2</string>
 				<key>kind</key>
