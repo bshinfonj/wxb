@@ -27,11 +27,11 @@
 				<key>bundle-identifier</key>
 				<string>com.bshinfo.wxbphone</string>
 				<key>bundle-version</key>
-				<string>1.0.2</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>银行云学院</string>
+				<string>微学吧</string>
 			</dict>
 		</dict>
 	</array>
