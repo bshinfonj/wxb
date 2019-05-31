@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://test.365yunxueyuan.com/service/ios/wxb.ipa</string>
+					<string>http://njdevepolment.365yunxueyuan.com/resource/ios/code/wxb.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://test.365yunxueyuan.com/service/wxbClient.png</string>
+					<string>http://njdevepolment.365yunxueyuan.com/resource/ios/code/wxbClient.png</string>
 			    </dict>
 			</array>
 			<key>metadata</key>
